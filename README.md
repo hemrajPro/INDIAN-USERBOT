@@ -1,7 +1,7 @@
-# Meow userbot + music system
+# userbot + music system
 it's pyrogram userbot made with love
 
-Meow UserBot
+Indian UserBot
 
 [![BOT LOGO](https://telegra.ph/file/7c87aa3df148e2e15ab17.jpg)](https://t.me/indian_userbot )
 
