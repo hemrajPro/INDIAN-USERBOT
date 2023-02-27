@@ -19,3 +19,4 @@ def authorized_users_only(func: Callable) -> Callable:
                 return await func(client, message)
 
     return decorator
+ 
