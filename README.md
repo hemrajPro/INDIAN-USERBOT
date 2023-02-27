@@ -3,27 +3,25 @@ it's pyrogram userbot made with love
 
 Meow UserBot
 
-[![MEOWBOT LOGO](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/Murat_30_God )
+[![BOT LOGO](https://telegra.ph/file/7c87aa3df148e2e15ab17.jpg)](https://t.me/indian_userbot )
 
-Generate-pyrogram-session-string - Replit
-https://replit.com/@dashezup/generate-pyrogram-session-string
+Generate-pyrogram-session-string - bot
+https://t.me/STRING_SESSION_Genratorr_BOT
 
 🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
 
 𝔽𝕆ℝ 𝔻𝔼ℙ𝕃𝕆𝕐 𝕆ℕ ℍ𝔼ℝ𝕆𝕂𝕌 𝕋𝔸ℙ 𝕆ℕ 𝕋ℍ𝔼 𝔹𝕌𝕋𝕋𝕆ℕ ☟︎︎︎
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kaal0408/Meow">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hemrajdangi2210/INDIAN-USERBOT">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UJhak0)
-
-Credit - RiZoeL Repo For some plugin
+Credit - pd Repo For some plugin
 
 
 
 
-- **Commands of Meow userbot **
+- **Commands of Indian userbot **
 
 - **skip - To skip the song in vc **
 
@@ -99,5 +97,5 @@ Credit - RiZoeL Repo For some plugin
 
 - **inviteall - For member adding **
 
-<h2 align="Owner"><b>Owner <a href="https://t.me/Hayat_Murat_30">Manjeet</a></b></h2>
-<h2 align="Owner"><b>Owner <a href="https://github.com/DynamicAdi">Loverboy</a></b></h2>
+<h2 align="Owner"><b>Owner <a href="https://t.me/itts_DangiBoy">hemraj</a></b></h2>
+<h2 align="Owner"><b>Owner <a href="https://github.com/hemrajdangi2210">Hemraj</a></b></h2>
