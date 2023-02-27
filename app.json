@@ -1,5 +1,5 @@
 {
-    "name": "Meow Userbot",
+    "name": "Indian Userbot",
     "description": "Pyrogram userbot with music system.",
     "logo": "",
     "keywords": [
@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/kaal0408/Meow",
+    "repository": "https://github.com/hemrajdangi2210/INDIAN-USERBOT",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
