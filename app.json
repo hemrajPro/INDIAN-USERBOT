@@ -57,5 +57,5 @@
             "size": "eco"
         }
     },
-    "stack": "container"
+    "stack": "heroku-20"
 }
