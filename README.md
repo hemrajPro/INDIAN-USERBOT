@@ -3,7 +3,7 @@ it's pyrogram userbot made with love
 
 Indian UserBot
 
-[![BOT LOGO](https://telegra.ph/file/7c87aa3df148e2e15ab17.jpg)](https://t.me/indian_userbot )
+[![BOT LOGO](https://telegra.ph/file/5d242611399c32cf9d1e4.jpg)](https://t.me/indian_userbot )
 
 Generate-pyrogram-session-string - bot
 https://t.me/STRING_SESSION_Genratorr_BOT
