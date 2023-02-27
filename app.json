@@ -1,13 +1,13 @@
 {
-    "name": "Indian Userbot",
+    "name": "Meow Userbot",
     "description": "Pyrogram userbot with music system.",
-    "logo": "https://telegra.ph/file/5d242611399c32cf9d1e4.jpg",
+    "logo": "",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/hemrajdangi2210/INDIAN-USERBOT",
+    "repository": "https://github.com/kaal0408/Meow",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
@@ -42,9 +42,20 @@
             "required": true
         }
     },
-"stack": "heroku-20",
-  "buildpacks": [
+    "addons": [],
+    "buildpacks": [
         {
             "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
         }
-    ]
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    },
+    "stack": "container"
+}
